@@ -19,7 +19,7 @@ To play the game locally, follow these steps:
 2. **Clone the Repository**: Clone this repository to your local machine using the following command:
    
    ```
-   git clone https://github.com/your-username/Monster-Chase-Game.git
+   git clone https://github.com/Skofficial2007/Monster-Chase-Game.git
    ```
 
 3. **Open in Unity**: Open Unity Hub and click on the "Add" button. Navigate to the folder where you cloned the repository and select the project folder to open the game in Unity.
